@@ -1,5 +1,5 @@
 # Abstraction
-This is a C++ command-line application that simulates the functionality of the popular expense-sharing app 'Splitwise'.
+This is a C++ command-line application that simulates the functionality of the popular expense-sharing app 'Splitwise', also featuring the implementation of the OOP concept of abstraction.
 The application helps users keep track of expenses among a group of people and calculates the amounts owed between individuals.
 
 ## Features
@@ -16,4 +16,5 @@ Compilation: Compile the C++ source code using a C++ compiler. For example:
    g++ -o abstraction.exe abstraction.cpp
 
 Run: Run the code using the following command:
+
  ./abstraction.exe
